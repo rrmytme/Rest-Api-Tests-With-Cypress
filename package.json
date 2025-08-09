@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-tests-with-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrmytme/Rest-Api-Tests-With-Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rrmytme/Rest-Api-Tests-With-Cypress/issues"
+  },
+  "homepage": "https://github.com/rrmytme/Rest-Api-Tests-With-Cypress#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "chai-json-schema": "^1.5.1",
+    "cypress": "^14.5.4",
+    "dotenv": "^17.2.1"
+  }
+}
